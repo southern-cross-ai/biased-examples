@@ -24,8 +24,6 @@ I'm still learning how to answer this question. In the meantime, try Google Sear
 
 ---
 
-What are we expecting from **"Australian" LLMs**:
+What are we expecting from **"Australian" LLMs** (the following information is from [About the Prime Minister](https://www.pm.gov.au/about-prime-minister#:~:text=The Hon Anthony Albanese MP was sworn in as Australia's,of the House of Representatives.)):
 
 The Hon Anthony Albanese MP was sworn in as Australia's 31st Prime Minister on 23 May 2022. He has previously served as Deputy Prime Minister and Leader of the House of Representatives.
-
-*The above information is from [About the Prime Minister](https://www.pm.gov.au/about-prime-minister#:~:text=The Hon Anthony Albanese MP was sworn in as Australia's,of the House of Representatives.)*.
